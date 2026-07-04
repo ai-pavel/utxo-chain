@@ -8,4 +8,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: swift build
-      - run: swift test
+      - run: swift test --enable-code-coverage
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v4
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          fail_ci_if_error: false

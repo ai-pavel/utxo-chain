@@ -1,6 +1,7 @@
 # UTXOChain
 
 [![CI](https://github.com/pavel-genai/utxo-chain/actions/workflows/ci.yml/badge.svg)](https://github.com/pavel-genai/utxo-chain/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/pavel-genai/utxo-chain/branch/main/graph/badge.svg)](https://codecov.io/gh/pavel-genai/utxo-chain)
 
 A minimal UTXO-based blockchain implementation in Swift.
 

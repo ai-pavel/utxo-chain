@@ -1,7 +1,7 @@
 # UTXOChain
 
-[![CI](https://github.com/ai-pavel/utxo-chain/actions/workflows/ci.yml/badge.svg)](https://github.com/ai-pavel/utxo-chain/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/ai-pavel/utxo-chain/branch/main/graph/badge.svg)](https://codecov.io/gh/ai-pavel/utxo-chain)
+[![CI](https://github.com/ai-pavel/parcel/actions/workflows/ci.yml/badge.svg)](https://github.com/ai-pavel/parcel/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/ai-pavel/parcel/branch/main/graph/badge.svg)](https://codecov.io/gh/ai-pavel/parcel)
 
 A minimal UTXO-based blockchain implementation in Swift.
 
